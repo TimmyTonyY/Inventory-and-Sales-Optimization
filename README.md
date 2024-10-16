@@ -15,7 +15,7 @@ This project tackled real-world challenges of managing stock levels and optimizi
 ### User Instructions
 Want to explore the insights for yourself? Here’s how you can get started:
 #### Installation Instructions:
-* Clone the repository to your local machine: git clone https://github.com/yourusername/Inventory-Sales-Performance-Optimization.git
+* Clone the repository to your local machine: [https://github.com/yourusername/Inventory-Sales-Performance-Optimization.git](https://github.com/TimmyTonyY/Inventory-and-Sales-Optimization/tree/main)
 * Install the required Python libraries: pip install -r requirements.txt
 * Open the Jupyter Notebook to see the analysis: Jupyter notebook notebooks/analysis.ipynb
 #### Dataset Description
