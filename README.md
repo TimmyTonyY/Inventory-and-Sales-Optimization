@@ -17,7 +17,7 @@ Want to explore the insights for yourself? Here’s how you can get started:
 #### Installation Instructions:
 * Clone the repository to your local machine: [https://github.com/yourusername/Inventory-Sales-Performance-Optimization.git](https://github.com/TimmyTonyY/Inventory-and-Sales-Optimization/tree/main)
 * Install the required Python libraries: pip install -r requirements.txt
-* Open the Jupyter Notebook to see the analysis: Jupyter notebook notebooks/analysis.ipynb
+* Open the Jupyter Notebook to see the analysis: [Jupyter notebook notebooks/analysis.ipynb](https://github.com/TimmyTonyY/Inventory-and-Sales-Optimization/blob/main/Inventory_Optimize.ipynb)
 #### Dataset Description
 The dataset contains information on the following:
 * Product Types: Liquor, Wine, Beer, Non-Alcoholic beverages, STR_SUPPLIES, KEGS, DUNNAGE, and REF.
